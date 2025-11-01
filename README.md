@@ -1,8 +1,8 @@
 # SQL CHATBOT
 
-Ever wished you could just *talk* to your database? Now you can!
 
-This little app lets you ask questions about your data in plain English. No more trying to remember complicated SQL commands. Just ask, "How many students are there?" and it'll find the answer for you.
+
+This  app lets you ask questions about your data in plain English. No more trying to remember complicated SQL commands. Just ask, "How many students are there?" and it'll find the answer for you.
 
 It's all powered by a **LangChain SQL Agent** and the speedy **Groq API**. It's smart enough to figure out your question, write the SQL "nerd stuff" for you, and give you back a simple, human-readable answer.
 
@@ -18,7 +18,7 @@ It's all powered by a **LangChain SQL Agent** and the speedy **Groq API**. It's 
 
 ## How to Get it Running
 
-Ready to try it? It's just a few quick steps.
+ It's just a few quick steps.
 
 1.  **Get the Code**
     Grab the code from GitHub (or wherever you have it).
