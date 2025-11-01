@@ -1,0 +1,26 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment variables file
+# IMPORTANT: Never commit your API keys!
+.env
+*.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# IDE-specific folders
+.vscode/
+.idea/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Database files
+*.db
+student.db
